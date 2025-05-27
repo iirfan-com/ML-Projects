@@ -1,3 +1,6 @@
+
+Based on your dataset, this project is focused on predicting the likelihood of a heart attack using a variety of medical, lifestyle, and demographic factors. Here's a detailed project description you can use or modify:
+
 The dataset contains 100,000 records with 20 columns. Each row represents a unique individual and their associated features relevant to cardiovascular health. The target variable is Heart_Attack_Outcome, which indicates whether a heart attack occurred (1) or not (0).
 
 FEATURES:
