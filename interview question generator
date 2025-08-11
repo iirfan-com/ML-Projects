@@ -1,0 +1,3 @@
+"Interview Question Generator is a Generative AI-powered web application built using Flask, HTML, and CSS that dynamically generates interview questions based on a given job title. 
+The app integrates with AI through API keys (such as Google Gemini) to fetch relevant, real-time questions and includes a feature to download the generated questions as a PDF. 
+It offers a clean, responsive interface for an interactive and user-friendly experience."
